@@ -1,6 +1,5 @@
 import pokedexLogo from '../../images/pokedex-logo.png';
 import { ThemeTogglerButton } from '../button/ThemeTogglerButton';
-
 import { ThemeContext } from '../../context/ThemeContext';
 import { useContext } from 'react';
 

@@ -5,13 +5,16 @@ export const themes = {
         color: '#000000',
         background: '#ffffff',
         togglerRail: '#777777',
-        header: '#efefef'
+        header: '#efefef',
+        card: '#D2D3DB'
+
     },
     dark: {
         color: '#ffffff',
         background: '#202124',
         togglerRail: '#777777',
-        header: '#0f1011'
+        header: '#0f1011',
+        card: '#606368'
     }
 }
 
